@@ -1,0 +1,16 @@
+{
+  "name": "ZQuest v2.10",
+  "version": "v1.0.0",
+  "type": "EMU",
+  "description": "Pak for playing Zelda Classic v2.10-compatible quests",
+  "author": "Cobalt",
+  "repo_url": "https://github.com/cobaltgit/Zelda-Classic-MinUI",
+  "release_filename": "ZQUEST.pak.zip",
+  "changelog": {
+    "v1.0.0": "Initial release"
+  },
+  "screenshots": [],
+  "platforms": [
+    "tg5040"
+  ]
+}
