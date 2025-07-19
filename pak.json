@@ -5,7 +5,7 @@
   "description": "libretro core for playing Zelda Classic v2.10-compatible quests",
   "author": "Cobalt",
   "repo_url": "https://github.com/cobaltgit/Zelda-Classic-MinUI",
-  "release_filename": "ZQUEST.pak.zip",
+  "release_filename": "ZQUEST.pakz",
   "changelog": {
     "v1.0.0": "Initial release"
   },
